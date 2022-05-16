@@ -1,24 +1,24 @@
 # HIGH LEVEL REQUIREMENT
 
-AT89C51
-TRANSFORMER
-RAIN SENSOR
-SERVO MOTOR
-POWER SUPPLY
+* AT89C51
+* TRANSFORMER
+* RAIN SENSOR
+* SERVO MOTOR
+* POWER SUPPLY
 
 # LOW LEVEL REQUIREMENT
 
-RECTIFIER
-REGULATOR
+* RECTIFIER
+* REGULATOR
 
 # ADVANTAGES
 
-Low cost automation project.
-Less power consumption.
-operating principle is easy.
-installation is simplified very much.
+* Low cost automation project.
+* Less power consumption.
+* Operating principle is easy.
+* Installation is simplified very much.
 
 # APPLICATIONS
 
-It is possible to operate manually/automatically by proving on/off switch.
-Sensor cost is very low due to conductive sensor.
+* It is possible to operate manually/automatically by proving on/off switch.
+* Sensor cost is very low due to conductive sensor.
